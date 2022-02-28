@@ -1,7 +1,8 @@
-#include <iostream>
-using namespace std;
+extern hello()
 
-int main() {
-    cout << "Hello"
+int main(){
+   
+    hello();
 
+    return 0;
 }
