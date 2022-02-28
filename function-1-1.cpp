@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 
-int main() {
-    cout << "Hello"
+void hello(){
+     
+     cout << "object oriented programming";
 
 }
